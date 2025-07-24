@@ -90,6 +90,9 @@ nav:
   - Home: index.md
 
 extra:
+  analytics:
+    provider: google
+    property: G-510Y1KN03V
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/tileverse-io
